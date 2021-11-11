@@ -1,0 +1,92 @@
+{
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.guides.bracketPairs": true,
+  "files.associations": {
+    "*.s": "arm",
+    "*.asm": "arm",
+    "*.c": "c",
+    "*.cpp": "cpp",
+    "*.cc": "cpp",
+    "*.css": "css",
+    "*.dart": "dart",
+    "*.html": "html",
+    "*.java": "java",
+    "*.js": "javascript",
+    "*.json": "json",
+    "*.l": "lex",
+    "*.md": "markdown",
+    "*.txt": "plaintext",
+    "*.py": "python",
+    "*.scss": "scss",
+    "*.sh": "shellscript",
+    "*.sql": "sql",
+    "*.ts": "typescript",
+    "*.vue": "vue",
+    "*.y": "yacc"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.folders.color": "#26a69a",
+
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.minimumContrastRatio": 4.5,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "welcomePageInEmptyWorkbench",
+  "workbench.tree.indent": 14,
+  "workbench.tree.renderIndentGuides": "always",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "diffEditor.renderSideBySide": false,
+  "workbench.colorTheme": "jugal13-theme",
+  "java.semanticHighlighting.enabled": true,
+  "python.languageServer": "Pylance",
+  "C_Cpp.updateChannel": "Insiders",
+  "workbench.activityBar.visible": true,
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "all",
+  "workbench.statusBar.visible": true,
+  //"python.defaultInterpreterPath": "/usr/bin/python3",
+  "python.defaultInterpreterPath": "/Users/gauravv/.pyenv/versions/3.7.9/bin/python",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

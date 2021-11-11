@@ -1,0 +1,72 @@
+Names :-
+
+  Angular.ng-template
+  BattleBas.kivy-vscode
+  christian-kohler.path-intellisense
+  CoenraadS.bracket-pair-colorizer-2
+  danielpinto8zz6.c-cpp-compile-run
+  dsznajder.es7-react-js-snippets
+  eamodio.gitlens
+  ecmel.vscode-html-css
+  esbenp.prettier-vscode
+  formulahendry.auto-rename-tag
+  hnw.vscode-auto-open-markdown-preview
+  jugal13.jugal13-theme
+  mhutchie.git-graph
+  ms-python.python
+  ms-python.vscode-pylance
+  ms-toolsai.jupyter
+  ms-toolsai.jupyter-keymap
+  ms-toolsai.jupyter-renderers
+  ms-vscode.cpptools
+  octref.vetur
+  oderwat.indent-rainbow
+  PKief.material-icon-theme
+  pranaygp.vscode-css-peek
+  redhat.java
+  ritwickdey.live-sass
+  ritwickdey.LiveServer
+  VisualStudioExptTeam.vscodeintellicode
+  vscjava.vscode-java-debug
+  vscjava.vscode-java-dependency
+  vscjava.vscode-java-pack
+  vscjava.vscode-java-test
+  vscjava.vscode-maven
+  vuetifyjs.vuetify-vscode
+
+
+Install Commands :-
+
+code --install-extension Angular.ng-template
+code --install-extension BattleBas.kivy-vscode
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension danielpinto8zz6.c-cpp-compile-run
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension eamodio.gitlens
+code --install-extension ecmel.vscode-html-css
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension hnw.vscode-auto-open-markdown-preview
+code --install-extension jugal13.jugal13-theme
+code --install-extension mhutchie.git-graph
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode.cpptools
+code --install-extension octref.vetur
+code --install-extension oderwat.indent-rainbow
+code --install-extension PKief.material-icon-theme
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension redhat.java
+code --install-extension ritwickdey.live-sass
+code --install-extension ritwickdey.LiveServer
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension vscjava.vscode-java-debug
+code --install-extension vscjava.vscode-java-dependency
+code --install-extension vscjava.vscode-java-pack
+code --install-extension vscjava.vscode-java-test
+code --install-extension vscjava.vscode-maven
+code --install-extension vuetifyjs.vuetify-vscode
