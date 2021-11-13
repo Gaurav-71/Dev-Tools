@@ -67,3 +67,5 @@ Apps and softwares required for development.
 - Line Spacing : `git config --global core.autocrlf input `
 
 - View Config : `git config --global -e `
+
+- Set GH Personal Access Token [here](https://github.com/settings/tokens), and use the token as login password.
