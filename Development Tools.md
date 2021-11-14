@@ -24,7 +24,7 @@ Apps and softwares required for development.
 
 2. [Homebrew](https://brew.sh/)
 
-3. Pyenv ( Python Install )
+3. Python
 
    - https://github.com/pyenv/pyenv
 
@@ -36,9 +36,19 @@ Apps and softwares required for development.
 
    - Soln : brew install cask adoptopenjdkx
 
-5. Node
+5. [Node](https://github.com/nvm-sh/nvm#installation-and-update)
 
-   `brew install node`
+   - Download & Install : `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash `
+
+   - Restart Terminal : `source ~/.zshrc`
+
+   - Verify Installation : `command -v nvm`
+
+   - Download Latest node version : `nvm install --lts`
+
+   - Download Specific Version : `nvm install x.xx.x`
+
+   - [More Info](https://heynode.com/tutorial/install-nodejs-locally-nvm/)
 
 6. Typescript
 
