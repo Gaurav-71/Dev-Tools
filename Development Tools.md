@@ -16,6 +16,8 @@ Apps and softwares required for development.
 
 6. [Jupyter Notebook](https://jupyter.org/install.html), Download the custom automator app in Custom Apps folder.
 
+7. [Eclipse](https://www.eclipse.org/downloads/)
+
 ## Softwares
 
 1. [Oh My Zsh ( Terminal Shell )](https://ohmyz.sh/)
