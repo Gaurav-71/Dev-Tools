@@ -31,3 +31,7 @@
 8. [AppCleaner](https://freemacsoft.net/appcleaner/)
 
    - Helps in fully uninstalling apps
+
+9. [Fancy MacOS icons](https://macosicons.com/)
+
+   - [Steps](https://support.apple.com/en-in/guide/mac-help/mchlp2313/mac)
