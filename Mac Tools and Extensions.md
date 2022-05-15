@@ -20,9 +20,10 @@
 
    - Stops screen from sleeping
 
-6. [Low Power Mode Toggle](https://app.gumroad.com/d/90408ec5eb56c0e69c57d4405ce54e26?_ga=2.226393433.2112290610.1636516902-404790147.1636516902&_gl=1*jy9g58*_ga*NDA0NzkwMTQ3LjE2MzY1MTY5MDI.*_ga_6LJN6D94N6*MTYzNjUxNjkwMi4xLjEuMTYzNjUxNzAwMS4w)
+6. [Low Power Mode Toggle](https://www.icloud.com/shortcuts/0c3ee028d75a477796cf81bbf84f1f54)
 
    - Enables low power mode from menu bar ( MacOS Monetery and higher)
+   - [Help Article](https://webtrickz.com/low-power-mode-shortcut-mac-monterey/)
 
 7. [Android File Transfer](https://www.android.com/filetransfer/)
 
